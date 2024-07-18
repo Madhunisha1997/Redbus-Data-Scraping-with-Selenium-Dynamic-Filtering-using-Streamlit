@@ -8,6 +8,7 @@ The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revo
 3. MySQL
 4. Streamlit
 
+**Approach**
 1. Used Jupyter notebook for scraping Government State Bus Transport data from Redbus website using Selenium
 2. Done some changes to the scraped data to make filtering easy
 3. Stored the scraped data in mysql
